@@ -1,0 +1,16 @@
+{
+  "brand": "",
+  "watermark": "",
+  "confirmation_mode": "explicit",
+  "wait_seconds": 30,
+  "max_parallel_products": 3,
+  "include_introduction": false,
+  "introduction_asset": "",
+  "shop_after_sales_confirmed": false,
+  "shop_after_sales_text": "",
+  "delivery_promise_confirmed": false,
+  "delivery_promise_text": "",
+  "default_stop": "local_delivery",
+  "post_generation_text_review": false,
+  "note": "空白须由使用者按自己的真实情况填写；不继承任何原店铺政策。"
+}
